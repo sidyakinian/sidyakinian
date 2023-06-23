@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-My name's Yan, I'm a 4th year undergraduate math student at the University of British Columbia and an incoming ML intern at Kinaxis. I'm an aspiring machine learning engineer and have strong interests in:
+My name's Yan, I'm a senior undergraduate math student at the University of British Columbia.
 
-- 🤖 Machine learning (especially NLP)
+I'm currently working as a machine learning intern at Vector Institute, a Canadian research lab under the University of Toronto.
+
+I'm broadly interested in:
+
+- 🤖 Machine learning
 - 📊 Data engineering
 - 🛠 Infrastructure
 - 💾 Backend
 
 Please feel free to reach out to chat about anything!
 
-I'm also looking for a summer 2023 technical interships!
+I'm also looking for a fall 2023 technical interships!
