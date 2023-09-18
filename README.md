@@ -2,15 +2,8 @@
 
 My name's Yan, I'm a senior undergraduate math student at the University of British Columbia.
 
-I'm currently working as a machine learning intern at Vector Institute, a Canadian research lab under the University of Toronto. In September, I'm starting my software engineering internship at Coursera, focused on data/ML.
+I'm currently working as software engineering intern at Coursera on the data team. Previously I was a machine learning intern at Vector Institute, a Canadian research lab under the University of Toronto.
 
-I'm broadly interested in:
-
-- 🤖 Machine learning
-- 📊 Data engineering
-- 🛠 Infrastructure
-- 💾 Backend
+I'm broadly interested in solving hard technical problems and have experience in a variety of areas, including data/machine learning, low-level programming in C/C++, mobile development, and general software engineering.
 
 Please feel free to reach out to chat about anything!
-
-I'm also looking for winter 2024 and summer 2024 technical interships!
